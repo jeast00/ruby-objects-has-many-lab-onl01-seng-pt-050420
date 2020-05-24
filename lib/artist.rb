@@ -8,4 +8,8 @@ class Artist
   def songs
     Song.all
   end
+
+  def add_song
+
+  end
 end
