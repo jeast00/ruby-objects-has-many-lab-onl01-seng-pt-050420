@@ -13,7 +13,5 @@ class Song
     @@all
   end
 
-  def method_name
-    
-  end
+
 end
